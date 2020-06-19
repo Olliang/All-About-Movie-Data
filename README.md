@@ -19,6 +19,7 @@ Being a movie/tv show enthusiast, I was intriged to understand user viewing beha
 ---- b. How is the distribution and popularity across different genre?
 
 ---- c. What are the popular topics of movies distributed by different scores?
+
         -- NLP common analysis with wordcloud
 
 
