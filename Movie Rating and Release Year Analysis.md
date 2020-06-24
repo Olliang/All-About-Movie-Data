@@ -10,7 +10,7 @@ There are extraordinarily high number of ratings on the movies released during t
 
 ### Dashboard:
 
-![dashboard]([https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v1.PNG](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard v1.PNG))
+![dashboard]([https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v1.PNG](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v1.PNG))
 
 
 
