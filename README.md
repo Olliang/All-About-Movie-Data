@@ -25,7 +25,7 @@ Being a movie/tv show enthusiast, I was intrigued to understand user viewing beh
 
 ---- a. Problem: What caused the 
 
-[dashboard v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Dashboard%20v1.PNG)
+![dashboard v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Dashboard%20v1.PNG)
 
 
 
