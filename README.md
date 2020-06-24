@@ -13,7 +13,7 @@ Being a movie/tv show enthusiast, I was intrigued to understand user viewing beh
 ## Data Science and Analysis
 
 **1. Exporatory Data Analysis**
-
+<br>
 a. How is the popularity distributed across movies released in different years?
 <br>
 b. How is the distribution and popularity across different genre?
@@ -23,20 +23,24 @@ c. What are the popular topics of movies distributed by different scores? (NLP c
 <br>
 <br>
 **2. Building Visualization Dashboard**
-
----- a. Problem: What caused the 
+<br>
+a. Problem: What caused the 
+<br>
+<br>
 
 ![dashboard v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v1.PNG)
 
 
-
+<br>
+<br>
+<br>
 **3. Building Recommender System**
-
----- a. Recommender System with Collaborative Filtering 
-
----- b. Recommender System with Matrix Factorization
-
----- c. Content-based Recommender System 
-
+<br>
+a. Recommender System with Collaborative Filtering 
+<br>
+b. Recommender System with Matrix Factorization
+<br>
+c. Content-based Recommender System 
+<br>
 
 
