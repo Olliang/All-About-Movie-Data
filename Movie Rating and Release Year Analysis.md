@@ -20,7 +20,7 @@ There are extraordinarily high number of ratings on the movies released during t
 
 
 
-![https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v1p1.PNG](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story v1p1.PNG)
+![story v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v1p1.PNG)
 
 
 
@@ -28,7 +28,7 @@ There are extraordinarily high number of ratings on the movies released during t
 
 
 
-![https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v1p2.PNG](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story v1p2.PNG)
+![story v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v1p2.PNG)
 
 
 
@@ -36,4 +36,4 @@ There are extraordinarily high number of ratings on the movies released during t
 
 
 
-![https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v1p3.PNG](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story v1p3.PNG)
+![story v3](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v1p3.PNG)
