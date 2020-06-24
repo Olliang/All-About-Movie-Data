@@ -22,7 +22,7 @@ b. How is the distribution and popularity across different genre?
 <br>
 <br>
 c. What are the popular topics of movies distributed by different scores? <br>
-(NLP common analysis and visualization with wordcloud)
+    (NLP common analysis and visualization with wordcloud)
 <br>
 <br>
 <br>
@@ -45,9 +45,12 @@ a. Problem: What caused the
 <br>
 a. Recommender System with Collaborative Filtering 
 <br>
+<br>
 b. Recommender System with Matrix Factorization
 <br>
+<br>
 c. Content-based Recommender System 
+<br>
 <br>
 
 
