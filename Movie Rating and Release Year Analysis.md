@@ -2,19 +2,19 @@
 
 
 
-### Problem Statement:
+## Problem Statement:
 
 There are extraordinarily high number of ratings on the movies released during the years from 1993 to 1996. Are there any particular genres that were leading the growth? Are there any major movies that were causing the growth?
 
 
 
-### Dashboard:
+## Dashboard:
 
 ![dashboard](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v1.PNG)
 
 
 
-### Story Line:
+## Story Line:
 
 #### (1)
 
