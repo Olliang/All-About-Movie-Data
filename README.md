@@ -14,6 +14,7 @@ Being a movie/tv show enthusiast, I was intrigued to understand user viewing beh
 
 **1. Exporatory Data Analysis**
 <br>
+<br>
 a. How is the popularity distributed across movies released in different years?
 <br>
 b. How is the distribution and popularity across different genre?
@@ -23,6 +24,7 @@ c. What are the popular topics of movies distributed by different scores? (NLP c
 <br>
 <br>
 **2. Building Visualization Dashboard**
+<br>
 <br>
 a. Problem: What caused the 
 <br>
@@ -36,6 +38,7 @@ a. Problem: What caused the
 <br>
 
 **3. Building Recommender System**
+<br>
 <br>
 a. Recommender System with Collaborative Filtering 
 <br>
