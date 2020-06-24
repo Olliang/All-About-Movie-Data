@@ -21,7 +21,7 @@ Being a movie/tv show enthusiast, I was intrigued to understand user viewing beh
 ---- c. What are the popular topics of movies distributed by different scores? (NLP common analysis and visualization with wordcloud)
 
 
-**3. Building Visualization Dashboard**
+**2. Building Visualization Dashboard**
 
 ---- a. Problem: What caused the 
 
@@ -29,7 +29,7 @@ Being a movie/tv show enthusiast, I was intrigued to understand user viewing beh
 
 
 
-**2. Building Recommender System**
+**3. Building Recommender System**
 
 ---- a. Recommender System with Collaborative Filtering 
 
