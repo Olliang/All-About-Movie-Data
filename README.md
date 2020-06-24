@@ -22,7 +22,7 @@ b. How is the distribution and popularity across different genre?
 <br>
 <br>
 c. What are the popular topics of movies distributed by different scores? <br>
-    (NLP common analysis and visualization with wordcloud)
+==> Technique: NLP common analysis and visualization with wordcloud
 <br>
 <br>
 <br>
