@@ -21,6 +21,14 @@ Being a movie/tv show enthusiast, I was intrigued to understand user viewing beh
 ---- c. What are the popular topics of movies distributed by different scores? (NLP common analysis and visualization with wordcloud)
 
 
+**3. Building Tableau Interactive Dashboard**
+
+---- a. Problem: What caused the 
+
+[dashboard v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Dashboard%20v1.PNG)
+
+
+
 **2. Building Recommender System**
 
 ---- a. Recommender System with Collaborative Filtering 
