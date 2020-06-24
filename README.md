@@ -17,9 +17,12 @@ Being a movie/tv show enthusiast, I was intrigued to understand user viewing beh
 <br>
 a. How is the popularity distributed across movies released in different years?
 <br>
+<br>
 b. How is the distribution and popularity across different genre?
 <br>
-c. What are the popular topics of movies distributed by different scores? (NLP common analysis and visualization with wordcloud)
+<br>
+c. What are the popular topics of movies distributed by different scores? <br>
+(NLP common analysis and visualization with wordcloud)
 <br>
 <br>
 <br>
