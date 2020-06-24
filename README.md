@@ -34,6 +34,7 @@ a. Problem: What caused the
 <br>
 <br>
 <br>
+
 **3. Building Recommender System**
 <br>
 a. Recommender System with Collaborative Filtering 
