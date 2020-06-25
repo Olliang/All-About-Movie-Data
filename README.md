@@ -30,7 +30,7 @@ b. How is the ratingcount and usercount distributed across different genre?
 <br>
 c. What are the popular topics of movies distributed by different scores? <br>
 <br>
-==> Technique: NLP common analysis and visualization with wordcloud
+==> Techniques used: NLP common analysis and visualization with wordcloud
 <br>
 <br>
 <br>
