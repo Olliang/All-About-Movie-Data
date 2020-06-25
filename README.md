@@ -30,7 +30,7 @@ c. What are the popular topics of movies distributed by different scores? <br>
 **2. Building Visualization Dashboard**
 <br>
 <br>
-a. Problem: The number of movies released was growing exponentially from 1880s to 2010s. However, the number of ratings on the movies released in the year during this period has a different trend. More ratings are seen on the movies released during the year from 1993 to 1996. While there was an exponentially increasing number of movies released after this period, there are exponentially decreasing number of ratings on the newer movies. Is this a natual peak due to the cumulated ratings covering a longer period?  Has the MovieLens Website become less popular after that period? What movies caused this great popularity? Are they more positive ratings?
+Business Problem: The number of movies released was growing exponentially from 1880s to 2010s. However, more ratings are seen on the movies released during the year from 1993 to 1996. While there was an exponentially increasing number of movies released after this period, there are exponentially decreasing number of ratings on the newer movies. Is this a natual peak due to the cumulated ratings covering a longer period?  Has the MovieLens Website become less popular after that period? What movies caused this great popularity? Are they more positive ratings?
 <br>
 <br>
 
