@@ -48,7 +48,6 @@ File: `Movie Rating Dashboard Analysis.md` - Markdown file recording the storyli
 
 <br>
 <br>
-<br>
 
 **3. Building Recommender System**
 <br>
