@@ -24,7 +24,7 @@ File: `MovieLens_EDA.ipynb` - jupyter notebook that contains the EDA on the Movi
 **a.** How is the ratingcount distributed across movies released in different years?
 <br>
 <br>
-**b.** How is the ratingcount and usercount distributed across different genre?
+**b.** How are the ratingcount and usercount distributed across different genre?
 <br>
 <br>
 **c.** What are the popular topics of movies distributed by different scores? <br>
