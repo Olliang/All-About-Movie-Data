@@ -14,7 +14,6 @@ Being a movie/tv show enthusiast, I have been intrigued to understand user viewi
 
 <br>
 <br>
-
 ## Data Science and Analysis
 
 **1. Exporatory Data Analysis (EDA)**
