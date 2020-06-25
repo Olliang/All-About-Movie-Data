@@ -42,7 +42,7 @@ Business Problem: The number of movies released was growing exponentially from 1
 File: `Movie Rating Dashboard Analysis.md` - Markdown file recording the storyline of analysis on the MoviLens Data
 <br>
 <br>
-![dashboard v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_dashboard%20v2.PNG)
+![dashboard v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v2.PNG)
 
 <br>
 <br>
