@@ -23,13 +23,13 @@ Being a movie/tv show enthusiast, I have been intrigued to understand user viewi
 File: `MovieLens_EDA.ipynb` - jupyter notebook that contains the EDA on the MoviLens Dataset
 <br>
 <br>
-a. How is the ratingcount distributed across movies released in different years?
+**a.** How is the ratingcount distributed across movies released in different years?
 <br>
 <br>
-b. How is the ratingcount and usercount distributed across different genre?
+**b.** How is the ratingcount and usercount distributed across different genre?
 <br>
 <br>
-c. What are the popular topics of movies distributed by different scores? <br>
+**c.** What are the popular topics of movies distributed by different scores? <br>
 <br>
 ==> Techniques used: NLP common analysis and visualization with wordcloud
 <br>
@@ -53,13 +53,13 @@ File: `Movie Rating Dashboard Analysis.md` - Markdown file recording the storyli
 **3. Building Recommender System**
 <br>
 <br>
-a. Recommender System with Collaborative Filtering 
+**a.** Recommender System with Collaborative Filtering 
 <br>
 <br>
-b. Recommender System with Matrix Factorization
+**b.** Recommender System with Matrix Factorization
 <br>
 <br>
-c. Content-based Recommender System 
+**c.** Content-based Recommender System 
 <br>
 <br>
 
