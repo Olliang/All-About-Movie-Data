@@ -4,7 +4,7 @@
 
 ### Problem Statement:
 
-The number of movies released was growing exponentially from 1880s to 2010s. However, more ratings are seen on the movies released during the year from 1993 to 1996. While there was an exponentially increasing number of movies released after this period, there are exponentially decreasing number of ratings on the newer movies. Is this a natual peak due to the cumulated ratings covering a longer period? Has the MovieLens Website become less popular after that period? What movies caused this great popularity? Are they more positive ratings?
+The number of movies released was growing exponentially from 1880s to 2010s. However, more ratings are seen on the movies released during the year from 1993 to 1996. While there was an exponentially increasing number of movies released after this period, there are exponentially decreasing number of ratings on the newer movies. Is this a natual peak due to the cumulated ratings covering a longer period? Has the MovieLens Website become less popular after that period? What movies caused this great popularity? Are those ratings mostly positive?
 
 
 
