@@ -22,6 +22,7 @@ Being a movie/tv show enthusiast, I was intrigued to understand user viewing beh
 <br>
 File: `MovieLens_EDA.ipynb` - jupyter notebook that contains the EDA on the MoviLens Dataset
 <br>
+<br>
 a. How is the ratingcount distributed across movies released in different years?
 <br>
 <br>
@@ -42,8 +43,8 @@ Business Problem: The number of movies released was growing exponentially from 1
 <br>
 File: `Movie Rating Dashboard Analysis.md` - Markdown file recording the storyline of the analysis on the MoviLens Data
 <br>
+<br>
 ![dashboard v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_dashboard%20v2.PNG)
-
 
 <br>
 <br>
