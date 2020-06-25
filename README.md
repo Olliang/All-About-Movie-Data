@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Being a movie/tv show enthusiast, I was intrigued to understand user viewing behavior using data and think about how to provide the right content to the right people from a user's stand point. This repository is a play ground of my data analysis on movie related data. 
+Being a movie/tv show enthusiast, I have been intrigued to understand user viewing behavior using data and think about how to provide the right content to the right people from a user's stand point. This repository is a play ground of my data analysis on movie related data. 
 <br>
 <br>
 
