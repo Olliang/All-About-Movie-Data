@@ -12,7 +12,6 @@ Being a movie/tv show enthusiast, I have been intrigued to understand user viewi
 
 2. Netflix Prize data on Kaggle (https://www.kaggle.com/netflix-inc/netflix-prize-data)
 <br>
-<br>
 
 ## Data Science and Analysis
 
