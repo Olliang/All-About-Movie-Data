@@ -64,3 +64,6 @@ c. Content-based Recommender System
 <br>
 
 
+## References:
+<br>
+https://github.com/adashofdata/nlp-in-python-tutorial <br>
