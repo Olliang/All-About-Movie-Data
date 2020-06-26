@@ -29,7 +29,7 @@ File: `MovieLens_EDA.ipynb` - jupyter notebook that contains the EDA on the Movi
 <br>
 **c.** What are the popular topics of movies distributed by different rating scores? <br>
 <br>
-==> Techniques used: NLP analysis and visualization with wordcloud
+==> Techniques used: NLP analysis and wordcloud visualization
 <br>
 <br>
 <br>
