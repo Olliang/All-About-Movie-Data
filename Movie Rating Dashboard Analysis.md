@@ -10,7 +10,7 @@ The number of movies released was growing exponentially from 1880s to 2010s. How
 
 ### Dashboard:
 
-![dashboard](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v2-2.PNG)
+![dashboard](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v2-3.PNG)
 
 
 
