@@ -96,7 +96,7 @@ Were there certain genres that extraordinarily popular among the movies released
 
 
 
-![story v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v2p4.PNG)
+![story v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v3p4.PNG)
 
 **Visualization tip for this graph:**
 
@@ -132,7 +132,7 @@ From the Top movies that have the most number of ratings for the targeted Genres
 
 
 
-![story v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v2p5.PNG)
+![story v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v3p5.PNG)
 
 
 
