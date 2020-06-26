@@ -12,7 +12,8 @@ The number of movies released was growing exponentially from 1880s to 2010s. How
 
 ![dashboard](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/MovieLens_Dashboard%20v2-4.PNG)
 
-
+<br>
+<br>
 
 ### Story Line:
 
@@ -24,6 +25,7 @@ Overall, the number of movies released was growing exponentially. There is a sta
 
 
 
+<br>
 
 
 #### (2)
@@ -62,7 +64,7 @@ The final graph looks similar as bullet graph, because I wanted to show how much
 
 
 
-
+<br>
 
 #### (3)
 
@@ -86,7 +88,7 @@ We are using similar logic as the last graph to compare `the number of unique us
 
 The final graph looks similar as the last one except that the bars are not colored, because the percentage of **U2** out of **U1** varies dependent on the filters. But we can still easily tell from the graph how much the number of unique users who rated the movies released in targeted years takes up the number of all unique users each year.
 
-
+<br>
 
 #### (4)
 
@@ -122,7 +124,7 @@ The percentage of **R2G** out of **R1G**
 
 The final graph is a bullet graph, which shows how much the **R2** value is above or below the **R1** benchmark in each genre. The bars are colored by the magnitude of the percentage. The more red the bar, the further above the **R2G** value to the **R1G** value in a particular genre. For example, the War movies released in the targeted years are the ones that have the biggest growth from the average in rating count. War, Western, and IMAX (considered both the growth and magnitude) are the genres that majorly drove the rating count peak.
 
-
+<br>
 
 #### (5)
 
