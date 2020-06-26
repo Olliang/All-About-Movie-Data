@@ -18,7 +18,7 @@ The number of movies released was growing exponentially from 1880s to 2010s. How
 
 #### (1)
 
-Overall, the number of movies released was growing exponentially. More people have rated movies released between 1993 and 1996 (targeted years). While there was an exponentially increasing number of movies released after this period, there was exponentially decreasing number of ratings on the newer movies. Is this a natual peak due to the cumulated ratings covering a longer period? Has the MovieLens Website become less popular after that period? What movies caused this great popularity? Are they more positive ratings?
+Overall, the number of movies released was growing exponentially. More people have rated movies released between 1993 and 1996 (targeted years). While there was an exponentially increasing number of movies released after this period, there was exponentially decreasing number of ratings on the newer movies. Is this a natural peak due to the cumulated ratings covering a longer period? Has the MovieLens Website become less popular after that period? What movies caused this great popularity? Are they more positive ratings?
 
 ![story v1](https://github.com/Olliang/All-About-Movie-Data/blob/master/images/Movielens_Story%20v2p1.PNG)
 
