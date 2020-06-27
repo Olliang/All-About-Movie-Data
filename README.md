@@ -53,6 +53,9 @@ File: `Movie Rating Dashboard Analysis.md` - Markdown file recording the storyli
 **a.** Recommender System with Memory-based Collaborative Filtering 
 <br>
 <br>
+File: `Memory_Based_Collaborative_Filtering.ipynb` - a notebook explaining and showcasing how memory-based collaborative filtering works
+<br>
+<br>
 **b.** Recommender System with Matrix Factorization
 <br>
 <br>
