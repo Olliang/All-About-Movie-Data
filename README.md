@@ -50,7 +50,7 @@ File: `Movie Rating Dashboard Analysis.md` - Markdown file recording the storyli
 **3. Building Recommender System (To be updated)**
 <br>
 <br>
-**a.** Recommender System with Collaborative Filtering 
+**a.** Recommender System with Memory-based Collaborative Filtering 
 <br>
 <br>
 **b.** Recommender System with Matrix Factorization
