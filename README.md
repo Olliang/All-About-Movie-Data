@@ -10,7 +10,10 @@ Being a movie & tv show enthusiast, I have been intrigued to understand user vie
 ## Data
 1. MovieLens 20M data (https://grouplens.org/datasets/movielens/20m/)
 
-2. Netflix Prize data on Kaggle (https://www.kaggle.com/netflix-inc/netflix-prize-data)
+2. MovieLens 1M data(https://grouplens.org/datasets/movielens/1m/)
+
+3. Netflix Prize data on Kaggle (https://www.kaggle.com/netflix-inc/netflix-prize-data)
+
 <br>
 
 ## Data Science and Analysis
