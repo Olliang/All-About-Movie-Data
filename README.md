@@ -56,10 +56,13 @@ File: `Movie Rating Dashboard Analysis.md` - Markdown file recording the storyli
 **a.** Recommender System with Memory-based Collaborative Filtering 
 <br>
 <br>
-File: `Memory_Based_Collaborative_Filtering.ipynb` - a notebook explaining and showcasing how memory-based collaborative filtering works
+File: `Memory_Based_CF.ipynb` - a notebook explaining and showcasing how memory-based collaborative filtering works
 <br>
 <br>
 **b.** Recommender System with Matrix Factorization
+<br>
+<br>
+File: `Matrix_Factorization_CF.ipynb` - a notebook explaining and showcasing how matrix factorizationd works with SVD algorithm
 <br>
 <br>
 **c.** Content-based Recommender System 
