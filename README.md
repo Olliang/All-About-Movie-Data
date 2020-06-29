@@ -62,14 +62,20 @@ File: `Memory_Based_CF.ipynb` - a notebook explaining and showcasing how memory-
 **b.** Recommender System with Matrix Factorization
 <br>
 <br>
-File: `Matrix_Factorization_CF.ipynb` - a notebook explaining and showcasing how matrix factorizationd works with SVD algorithm
+File: `Matrix_Factorization_CF.ipynb` - a notebook explaining and showcasing how matrix factorization works with SVD algorithm
 <br>
 <br>
 **c.** Content-based Recommender System 
 <br>
 <br>
+File: `Content_based_Filtering.ipynb` - a notebook explaining and showcasing how Content-based Filtering works with TF-IDF algorithm
 
+<br>
+<br>
 
 ## References:
 <br>
 https://github.com/adashofdata/nlp-in-python-tutorial <br>
+https://github.com/khanhnamle1994/movielens <br>
+
+
